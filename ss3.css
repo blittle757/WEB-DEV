@@ -1,0 +1,51 @@
+*{
+    text-decoration: none;
+    color: black;
+    font-family: ubuntu , sans sarif;
+}
+.navbar{
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(255, 0, 98) , rgb(155, 36, 251));
+    background-image: linear-gradient(to right, rgb(255, 0, 98) , rgb(155, 36, 251));
+    background-image: linear-gradient(to right, rgb(255, 0, 98) , rgb(155, 36, 251));
+    
+}
+.element{
+    text-decoration: none;
+    float: left;
+    list-style-type: none;
+    margin: 15px 27px;
+    padding: 12px 7px;
+    border-radius: 8px;
+    background-image: linear-gradient(to right, rgb(255, 0, 98) , rgb(155, 36, 251));
+    
+}
+a.active{
+    color: white;
+    text-decoration: none;
+}
+a.visited{
+    color: white;
+    text-decoration: none;
+}
+.list{
+    display: inline;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid rgba(255, 255, 255, 0);
+    padding: 3px 16px;
+    margin: 4px 11px;
+    border-radius: 22px;
+    color: white;
+    text-decoration: none;
+}
+.list a:hover{
+    color: rgba(0, 0, 0, 0.678);
+}
+.srch{
+    margin: -1px 297px;
+    padding: -1px -1px 0px 0px;
+    border: 2px solid rgba(255, 252, 252, 0);
+    border-radius: 10px;
+    font-family: ubuntu , sans-serif;
+    text-align: left ;
+}
